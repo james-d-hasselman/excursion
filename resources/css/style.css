@@ -1,0 +1,35 @@
+html {
+  background-color: black;
+  text-align: center;
+  color: gray;
+}
+
+h1 {
+  color: white;
+  font-family: Verdana;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+#product-summary {
+  font-family: Verdana;
+  font-size: 21px;
+}
+
+#copyright {
+  font-family: Verdana;
+  font-size: 21px;
+  text-align: right;
+}
