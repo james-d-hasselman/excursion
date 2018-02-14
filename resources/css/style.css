@@ -1,19 +1,17 @@
 html {
   background-color: black;
-  text-align: center;
   color: gray;
   font-family: Verdana, sans-serif;
+  text-align: center;
 }
 
 h1 {
   color: white;
   font-size: 50px;
-  text-align: center;
 }
 
 h2 {
   color: white;
-  font-weight: 300;
   font-size: 42px;
 }
 
@@ -22,11 +20,10 @@ a {
   font-size: 16px;
 }
 
-#product-summary {
+p {
   font-size: 21px;
 }
 
 #copyright {
-  font-size: 21px;
   text-align: right;
 }
